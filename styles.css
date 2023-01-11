@@ -51,16 +51,42 @@ p{
     border-radius: 1rem 0 0 1rem;
 }
 
+.sedan-card-img{
+    background-image: url(images/icon-sedans.svg);
+    background-repeat: no-repeat;
+    background-position:left;
+    background-size: cover;
+    height: 20%;
+    width: 20%;
+}
+
 .suvs-card{
     background-color: var(--Dark-cyan);
-
 }
+
+.suvs-card-img{
+    background-image: url(images/icon-suvs.svg);
+    background-repeat: no-repeat;
+    background-position:left;
+    background-size: cover;
+    height: 20%;
+    width: 20%;
+}
+
 
 .luxury-card{
     background-color: var(--Very-dark-cyan) ;
     border-radius: 0 1rem 1rem 0;
 }
 
+.luxury-card-img{
+    background-image: url(images/icon-luxury.svg);
+    background-repeat: no-repeat;
+    background-position:left;
+    background-size: cover;
+    height: 20%;
+    width: 20%;
+}
 
 
 .attribution {
@@ -70,4 +96,12 @@ p{
 
 .attribution a{
     color: hsl(228, 45%, 44%);
+}
+
+
+
+@media (max-width: 600px) {
+    .luxury-card {
+        background-color: var(--Bright-orange);
+    }
 }
