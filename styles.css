@@ -32,7 +32,7 @@
 .card{
     display: flex;
     flex-direction: row;
-    max-width: 45rem;
+    max-width: 50rem; /*45rem estaba bien*/
     min-height: 25rem;
 }
 
@@ -40,14 +40,14 @@ h1{
     font-family: var(--Big-Shoulders-Display);
     color: var(--Very-light-gray-background-headings-buttons);
     font-size: 1.5rem;
-    margin: 1rem;
+    margin: 1.5rem;
 }
 
 p{
     font-family: var(--Lexend-Deca);
     color: var(--Transparent-white-paragraphs);
     font-size: 0.9375rem;
-    margin: 1rem 1rem 3rem 1rem
+    margin: 1rem 2rem 3rem 1.5rem
 }
 
 .sedan-card{
