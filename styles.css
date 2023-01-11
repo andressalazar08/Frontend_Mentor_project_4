@@ -18,14 +18,46 @@
 }
 
 
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    min-height: 100vh;
+    border: 1rem solid red;
+    background-color: var(--Very-light-gray-background-headings-buttons);
+}
 
 
+.card{
+    display: flex;
+    flex-direction: row;
+    max-width: 25rem;
+    color: var();
+}
 
+h1{
+    font-family: var(--Big-Shoulders-Display);
+    color: var(--Very-light-gray-background-headings-buttons);
+    font-size: 0.9375rem;
+}
 
+p{
+    color: var(--Transparent-white-paragraphs);
+    font-size: 0.9375rem;
+}
 
+.sedan-card{
+    background-color: var(--Bright-orange);
+}
 
+.suvs-card{
+    background-color: var(--Dark-cyan);
+}
 
-
+.luxury-card{
+    background-color: var(--Very-dark-cyan) ;
+}
 
 
 
