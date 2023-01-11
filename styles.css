@@ -71,8 +71,8 @@ p{
     margin: 1rem;
     color: var(--Bright-orange);
     border: 0;
-    width: 5rem;
-    height: 1rem;
+    line-height: 2.5;
+    padding: 0 20px;
 }
 
 .suvs-card{
@@ -95,8 +95,8 @@ p{
     margin: 1rem;
     color: var(--Dark-cyan);
     border: 0;
-    width: 5rem;
-    height: 1rem;
+    line-height: 2.5;
+    padding: 0 20px;
 }
 
 .luxury-card{
@@ -121,8 +121,8 @@ p{
     margin: 1rem;
     color: var(--Very-dark-cyan);
     border: 0;
-    width: 5rem;
-    height: 1rem;
+    line-height: 2.5;
+    padding: 0 20px;
 }
 
 .attribution {
