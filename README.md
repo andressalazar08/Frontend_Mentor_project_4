@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://andressalazar08.github.io/Frontend_Mentor_project_4/)
+- Solution URL: [Solution](https://your-solution-url.com)
+- Live Site URL: [Live](https://andressalazar08.github.io/Frontend_Mentor_project_4/)
 
 ## My process
 
